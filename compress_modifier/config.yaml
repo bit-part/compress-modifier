@@ -1,0 +1,18 @@
+# compress modifier
+#
+# Release 1.0.0 (2013-5-22)
+#
+# Copyright (c) Tomohiro Okuwaki. / Powered by mt-plug.in
+name: compress modifier
+id: compress_modifier
+key: compress_modifier
+version: 1.0.0
+author_name: <__trans phrase="Tomohiro Okuwaki">
+author_link: http://www.bit-part.net/
+description: <__trans phrase="This modifier compresses a source code.">
+plugin_link: https://github.com/bit-part/compress-modifier
+doc_link: https://github.com/bit-part/compress-modifier
+l10n_class: compress_modifier::L10N
+tags:
+    modifier:
+        compress: $compress_modifier::compress_modifier::Tags::fltr_compress
