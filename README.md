@@ -19,7 +19,7 @@ Remove empty lines and white spaces of head of a line and break lines.
 Template:
 
 ```
-<mt:Unless compress="">
+<mt:Unless compress="1">
 <ul>
 
   <li>foo1</li>
@@ -47,7 +47,7 @@ Print:
 Template:
 
 ```
-<mt:Unless compress="">
+<mt:Unless compress="2">
 <ul>
 
   <li>foo1</li>
@@ -75,7 +75,7 @@ Print:
 Template:
 
 ```
-<mt:Unless compress="">
+<mt:Unless compress="3">
 <ul>
 
   <li>foo1</li>
