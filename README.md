@@ -8,7 +8,7 @@ The following modes are recognized:
  - compress="1"
 Remove empty lines.
  - compress="2"
-emove empty lines and white spaces of head of a line.
+Remove empty lines and white spaces of head of a line.
  - compress="3"
 Remove empty lines and white spaces of head of a line and break lines.
 
